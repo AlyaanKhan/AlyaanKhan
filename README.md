@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyaankhan&label=Profile%20views&color=0e75b6&style=flat" alt="alyaankhan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://alyaankhan.github.io/Portfolio_Repo/](https://alyaankhan.github.io/Portfolio_Repo/)
+- 👨‍💻 All of my projects are available at [https://alyaankhan.github.io/Alyaan_portfolio/](https://alyaankhan.github.io/Alyaan_portfolio/)
 
 - 💬 Ask me about **👋 Hello! I'm Muhammad Alyaan, a passionate and dedicated Computer Science graduate with a strong foundation in software development and artificial intelligence. My journey in programming has been shaped by building diverse and challenging projects—from a classic Snake game built with Pygame to a cutting-edge web application, Dream Oracle Textgram, which transforms text into images using AI and the Stack GAN model. As an Associate Software Engineer, I bring a growing skill set in Python development, front-end engineering, and machine learning. My expertise spans technologies such as Python, React.js, Flask, and SQL databases, with a deep interest in generative AI and data-driven applications. I’m also gaining hands-on experience in training machine learning models to solve real-world problems. In addition to my technical work, I have experience teaching web and mobile app development at Riphah International College, and I actively freelance on web and Python projects. I take pride in writing clean, maintainable code and crafting secure, user-friendly solutions.**
 
